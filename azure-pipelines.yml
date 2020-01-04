@@ -14,4 +14,5 @@ steps:
   inputs:
     script: |
       javac ReverseString.java
-      java ReverseString
+            java ReverseString
+      
